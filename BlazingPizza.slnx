@@ -1,0 +1,6 @@
+<Solution>
+  <Project Path="BlazingPizza.Client/BlazingPizza.Client.csproj" />
+  <Project Path="BlazingPizza.ComponentsLibrary/BlazingPizza.ComponentsLibrary.csproj" />
+  <Project Path="BlazingPizza.Shared/BlazingPizza.Shared.csproj" />
+  <Project Path="BlazingPizza/BlazingPizza.csproj" />
+</Solution>
