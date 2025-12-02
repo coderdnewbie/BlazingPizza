@@ -1,5 +1,5 @@
 # BlazingPizzaWorkshop
-The Blazing Pizza Workshop, updated for .NET 8
+The Blazing Pizza Workshop, updated for .NET 10
 
 Updated and derived from https://github.com/csharpfritz/blazor-workshop
 
